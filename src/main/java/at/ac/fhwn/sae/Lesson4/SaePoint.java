@@ -7,7 +7,6 @@ public class SaePoint{
     public String numberOfSatelites;
     public String fix;
 
-    public SaePoint(){};
     public SaePoint(String time, double latitude, double longitude, String numberOfSatelites, String fix){
         this.time = time;
         this.latitude = latitude;
