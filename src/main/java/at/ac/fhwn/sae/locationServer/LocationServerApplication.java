@@ -7,5 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LocationServerApplication {
     public static void main(String[] args){
         SpringApplication.run(LocationServerApplication.class, args);
+        //Das ist ein Test
     }
 }
